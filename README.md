@@ -5,3 +5,4 @@ The repository contains the following files:
 - Banking_marketing_paper.pdf: A paper with description, analysis and results from the project
 - Banking_marketing_project_Part1.ipypnb: Python notebook with the code of the project developed wyth Python. Part1
 - Banking_marketing_project_Part2.ipypnb: Python notebook with the code of the project developed wyth Python. Part2
+- bank-full.csv: files with the data to carry out the project. It's provided by kaggel:  https://www.kaggle.com/datasets/hariharanpavan/bank-marketing-dataset-analysis-classification?resource=download. 
